@@ -2,6 +2,9 @@
 fixation at arbitrarily many unlinked sites in a diploid population evolving according to random sweepstakes, 
 randomly occurring bottlenecks, and viability selection
 
+Use cweave to extract the documentation from a .w file;
+and ctangle to extract the C/C++ code
+
 The accompanying manuscript is available at 
 https://www.biorxiv.org/content/10.1101/2022.09.19.508488v1
 
